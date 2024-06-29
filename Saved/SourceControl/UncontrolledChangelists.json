@@ -143,6 +143,13 @@
 				"C:/Users/David/Desktop/Local Unreal Projects/ActionPlatformer/Content/Sounds/S_Throw.uasset",
 				"C:/Users/David/Desktop/Local Unreal Projects/ActionPlatformer/Content/Sounds/S_Throw_Cue.uasset",
 				"C:/Users/David/Desktop/Local Unreal Projects/ActionPlatformer/Content/Sounds/S_Hit_Cue.uasset",
+				"C:/Users/David/Desktop/Local Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/Shark/AnimSequences/Idle.uasset",
+				"C:/Users/David/Desktop/Local Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/Shark/AS_Shark.uasset",
+				"C:/Users/David/Desktop/Local Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/Shark/AnimSequences/Run.uasset",
+				"C:/Users/David/Desktop/Local Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/Shark/AnimSequences/Stun.uasset",
+				"C:/Users/David/Desktop/Local Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/Shark/AnimSequences/Defeated.uasset",
+				"C:/Users/David/Desktop/Local Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/Shark/AnimSequences/Attack.uasset",
+				"C:/Users/David/Desktop/Local Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/Shark/ABP_Shark.uasset",
 				"C:/Users/David/Desktop/Local Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/Captain/BP_ActionChar.uasset",
 				"C:/Users/David/Desktop/Local Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/Captain/BP_Shark.uasset",
 				"C:/Users/David/Desktop/Local Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/BP_Shark.uasset"
